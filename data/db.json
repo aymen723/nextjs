@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "gold",
+      "price": 5000,
+      "stock": 12,
+      "netto": 60,
+      "description": "small, little, diminutive, minute, tiny, miniature mean noticeably below average."
+    },
+    {
+      "id": "2",
+      "name": "bread",
+      "price": 5000,
+      "stock": 12,
+      "netto": 60,
+      "description": "small, little, diminutive, minute, tiny, miniature mean noticeably below average."
+    }
+  ]
+}
